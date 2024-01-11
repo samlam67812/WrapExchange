@@ -1,0 +1,13 @@
+package com.itranswarp.exchange.support;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public abstract class LoggerSupport {
+
+    /**
+     *  Logger support
+     */
+    protected final Logger logger = LoggerFactory.getLogger(getClass());
+
+}
