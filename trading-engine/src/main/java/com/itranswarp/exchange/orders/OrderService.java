@@ -1,7 +1,6 @@
-package com.itranswarp.orders;
+package com.itranswarp.exchange.orders;
 
-import com.itranswarp.assets.AssetService;
-import jakarta.persistence.criteria.Order;
+import com.itranswarp.exchange.assets.AssetService;
 import org.springframework.beans.factory.annotation.Autowired;
 import src.main.enums.AssetEnum;
 import src.main.enums.Direction;

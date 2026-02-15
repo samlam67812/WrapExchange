@@ -1,4 +1,4 @@
-package com.itranswarp.assets;
+package com.itranswarp.exchange.assets;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

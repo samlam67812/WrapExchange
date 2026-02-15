@@ -1,4 +1,4 @@
-package com.itranswarp.assets;
+package com.itranswarp.exchange.assets;
 
 public enum Transfer {
     AVAILABLE_TO_AVAILABLE,

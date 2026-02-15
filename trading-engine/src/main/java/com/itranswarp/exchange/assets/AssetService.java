@@ -1,4 +1,4 @@
-package com.itranswarp.assets;
+package com.itranswarp.exchange.assets;
 
 import src.main.enums.AssetEnum;
 import src.main.support.LoggerSupport;
